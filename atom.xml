@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://shehonina.github.io/"/>
-  <updated>2016-10-16T18:54:36.167Z</updated>
+  <updated>2016-12-20T13:39:52.277Z</updated>
   <id>http://shehonina.github.io/</id>
   
   <author>
@@ -15,11 +15,44 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title><![CDATA[Студентам]]></title>
+    <link href="http://shehonina.github.io/studentam/"/>
+    <id>http://shehonina.github.io/studentam/</id>
+    <published>2017-06-11T22:00:00.000Z</published>
+    <updated>2016-12-20T13:39:52.277Z</updated>
+    <content type="html"><![CDATA[<ul>
+<li><a href="/files/student/Билеты-по-малому-бизнесу.zip">Билеты по малому бизнесу</a> (архив .zip)</li>
+<li><a href="/files/student/Задачи-по-анализу-и-отчетности.zip">Задачи по анализу и отчетности</a> (архив .zip)</li>
+<li><a href="/files/student/Задачи-по-организации-собственного-дела.zip">Задачи по организации собственного дела</a> (архив .zip)</li>
+<li><a href="/files/student/Индексный-метод.ppt">Индексный метод</a> (презентация .ppt)</li>
+<li><a href="/files/student/Индексный-метод.pptx">Индексный метод</a> (презентация .pptx)</li>
+<li><a href="/files/student/Квалификационный-экзамен.zip">Квалификационный экзамен</a> (архив .zip)</li>
+<li><a href="/files/student/ПМ-06.04-Комплект-контрольно-оценочных-средств.docx">ПМ 06.04 Комплект контрольно-оценочных средств</a> (файл .docx)</li>
+<li><a href="/files/student/Экзамен-АФХД.doc">Экзамен АФХД.doc</a> (файл .doc)</li>
+<li><a href="/files/student/Штрафы-по-статотчётности.doc">Штрафы по статотчётности</a> (файл .doc)</li>
+<li><a href="/files/student/Демография-РК.doc">Демография Республики Коми</a> (файл .doc)</li>
+<li><a href="/files/student/dok-19.docx">Карта самостоятельной работы (Статистика)</a> (файл .docx)</li>
+<li><a href="/files/student/dok-20.odt">Положение об олимпиаде по статистике</a> (файл .odt, разработала преподаватель Н.М. Шехонина)</li>
+<li><a href="/files/student/stendovy_doklad.pdf">Динамика численности населения в Республикe Коми</a> (файл .pdf, стендовый доклад)</li>
+<li><a href="/files/student/knf.doc">Регламент</a> заочной научно-практической конференции «Слагаемые успеха – 2016». Дата проведения: 7 апреля 2016 года.</li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<ul>
+<li><a href="/files/student/Билеты-по-малому-бизнесу.zip">Билеты по малому бизнесу</a> (архив .zip)</li>
+<li><a href="/files/student/За]]>
+    </summary>
+    
+      <category term="Скачать" scheme="http://shehonina.github.io/categories/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C/"/>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[Методическая работа]]></title>
     <link href="http://shehonina.github.io/metrab/"/>
     <id>http://shehonina.github.io/metrab/</id>
-    <published>2016-10-15T22:00:00.000Z</published>
-    <updated>2016-10-16T18:54:36.167Z</updated>
+    <published>2016-12-15T23:00:00.000Z</published>
+    <updated>2016-12-20T13:39:38.917Z</updated>
     <content type="html"><![CDATA[<ul>
 <li><a href="/files/metrab/38.0201-статистика.doc">Статистика 38.0201</a> (файл .doc)</li>
 <li><a href="/files/metrab/бизнес-планирование.docx">Бизнес-планирование</a> (файл .docx)</li>
@@ -46,39 +79,6 @@
     <![CDATA[<ul>
 <li><a href="/files/metrab/38.0201-статистика.doc">Статистика 38.0201</a> (файл .doc)</li>
 <li><a href="/files/metrab/бизнес-планирован]]>
-    </summary>
-    
-      <category term="Скачать" scheme="http://shehonina.github.io/categories/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Студентам]]></title>
-    <link href="http://shehonina.github.io/studentam/"/>
-    <id>http://shehonina.github.io/studentam/</id>
-    <published>2016-03-10T23:00:00.000Z</published>
-    <updated>2016-03-11T18:29:16.282Z</updated>
-    <content type="html"><![CDATA[<ul>
-<li><a href="/files/student/Билеты-по-малому-бизнесу.zip">Билеты по малому бизнесу</a> (архив .zip)</li>
-<li><a href="/files/student/Задачи-по-анализу-и-отчетности.zip">Задачи по анализу и отчетности</a> (архив .zip)</li>
-<li><a href="/files/student/Задачи-по-организации-собственного-дела.zip">Задачи по организации собственного дела</a> (архив .zip)</li>
-<li><a href="/files/student/Индексный-метод.ppt">Индексный метод</a> (презентация .ppt)</li>
-<li><a href="/files/student/Индексный-метод.pptx">Индексный метод</a> (презентация .pptx)</li>
-<li><a href="/files/student/Квалификационный-экзамен.zip">Квалификационный экзамен</a> (архив .zip)</li>
-<li><a href="/files/student/ПМ-06.04-Комплект-контрольно-оценочных-средств.docx">ПМ 06.04 Комплект контрольно-оценочных средств</a> (файл .docx)</li>
-<li><a href="/files/student/Экзамен-АФХД.doc">Экзамен АФХД.doc</a> (файл .doc)</li>
-<li><a href="/files/student/Штрафы-по-статотчётности.doc">Штрафы по статотчётности</a> (файл .doc)</li>
-<li><a href="/files/student/Демография-РК.doc">Демография Республики Коми</a> (файл .doc)</li>
-<li><a href="/files/student/dok-19.docx">Карта самостоятельной работы (Статистика)</a> (файл .docx)</li>
-<li><a href="/files/student/dok-20.odt">Положение об олимпиаде по статистике</a> (файл .odt, разработала преподаватель Н.М. Шехонина)</li>
-<li><a href="/files/student/stendovy_doklad.pdf">Динамика численности населения в Республикe Коми</a> (файл .pdf, стендовый доклад)</li>
-<li><a href="/files/student/knf.doc">Регламент</a> заочной научно-практической конференции «Слагаемые успеха – 2016». Дата проведения: 7 апреля 2016 года.</li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<ul>
-<li><a href="/files/student/Билеты-по-малому-бизнесу.zip">Билеты по малому бизнесу</a> (архив .zip)</li>
-<li><a href="/files/student/За]]>
     </summary>
     
       <category term="Скачать" scheme="http://shehonina.github.io/categories/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C/"/>
