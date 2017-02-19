@@ -1,4 +1,4 @@
-.panel-default { min-height: 93px; }
+.panel-default { min-height: 105px; }
 .panel-group { margin-top:15px; }
 .panel-group > div { margin-bottom:20px; }
 #contacts p {margin:0px;}
@@ -55,11 +55,14 @@ body {
 .page{
   margin: 1.0em 0em;
   padding-top: 25px;
-  line-height: 1.5em;
+  line-height: 1.7em;
   font-family: Arial, sans-serif;
 }
 
-.panel-heading { font-weight:bold; }
+li, p {
+  font-size:1.15em;
+}
+
 
 /* =============================================================================
    List
@@ -106,14 +109,12 @@ img, video {
 
 h1{
   font-size:2.6em;
-  font-weight:bold;
   line-height:1.2em;
   margin-bottom:0.6667em;
   font-family: 'PT Sans Narrow', 'Ubuntu Condensed', 'Trebuchet MS', Tahoma, sans-serif;
 }
 
 h2,h3,h4,h5,h6{
-  font-weight:bold;
   font-family: 'PT Sans Narrow', 'Ubuntu Condensed', 'Trebuchet MS', Tahoma, sans-serif;
   letter-spacing: 1.2px;
 }
@@ -169,7 +170,7 @@ h4 { color: #B94A48; }
 @media screen and (max-width: 400px){
   .page-header { margin:0; }
   .panel-default { min-height:10px; }
-  body { font-size:13px; margin:0px; }
+  body { font-size:14px; margin:0px; }
   ul { padding:0 3px 0 9px; }
   .container { padding:0px 0px; }
   .content {
