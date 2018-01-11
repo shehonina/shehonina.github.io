@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://shehonina.github.io/"/>
-  <updated>2017-05-04T16:03:47.038Z</updated>
+  <updated>2018-01-11T18:15:26.139Z</updated>
   <id>http://shehonina.github.io/</id>
   
   <author>
@@ -18,8 +18,8 @@
     <title><![CDATA[Студентам]]></title>
     <link href="http://shehonina.github.io/studentam/"/>
     <id>http://shehonina.github.io/studentam/</id>
-    <published>2017-03-17T23:00:00.000Z</published>
-    <updated>2017-05-04T16:03:47.038Z</updated>
+    <published>2017-03-17T21:00:00.000Z</published>
+    <updated>2018-01-11T18:15:26.139Z</updated>
     <content type="html"><![CDATA[<ul>
 <li><a href="/files/student/Билеты-по-малому-бизнесу.zip">Билеты по малому бизнесу</a> (архив .zip)</li>
 <li><a href="/files/student/Задачи-по-анализу-и-отчетности.zip">Задачи по анализу и отчетности</a> (архив .zip)</li>
@@ -35,6 +35,9 @@
 <li><a href="/files/student/dok-20.odt">Положение об олимпиаде по статистике</a> (файл .odt, разработала преподаватель Н.М. Шехонина)</li>
 <li><a href="/files/student/stendovy_doklad.pdf">Динамика численности населения в Республикe Коми</a> (файл .pdf, стендовый доклад)</li>
 <li><a href="/files/student/knf.doc">Регламент</a> заочной научно-практической конференции «Слагаемые успеха – 2016». Дата проведения: 7 апреля 2016 года.</li>
+<li><a href="/files/student/karta_sr.docx">Карта самостоятельной работы студента по дисциплине «Статистика»</a> </li>
+<li><a href="/files/student/tem_dipl_rabot-2017.docx">Темы дипломных работ</a> </li>
+<li><a href="/files/student/sr_st.docx">Самостоятельная работа по статистике</a> </li>
 </ul>
 ]]></content>
     <summary type="html">
@@ -51,8 +54,8 @@
     <title><![CDATA[Методическая работа]]></title>
     <link href="http://shehonina.github.io/metrab/"/>
     <id>http://shehonina.github.io/metrab/</id>
-    <published>2017-03-15T23:00:00.000Z</published>
-    <updated>2017-05-04T16:03:42.328Z</updated>
+    <published>2017-03-15T21:00:00.000Z</published>
+    <updated>2018-01-11T18:12:28.382Z</updated>
     <content type="html"><![CDATA[<ul>
 <li><a href="/files/metrab/38.0201-статистика.doc">Статистика 38.0201</a> (файл .doc)</li>
 <li><a href="/files/metrab/бизнес-планирование.docx">Бизнес-планирование</a> (файл .docx)</li>
@@ -73,6 +76,7 @@
 <li><a href="/files/metrab/rab_pr_po_an_otchet_201chas.docx">Основы анализа бухгалтерской отчетности</a> (файл .docx)</li>
 <li><a href="/files/metrab/stat_log.doc">Статистика для студентов, обучающихся по специальности «Операционная деятельность в логистике»</a> (файл .doc)</li>
 <li><a href="/files/metrab/statis_tovarov.doc">Статистика для студентов, обучающихся по специальности «Товароведение и экспертиза качества потребительских товаров»</a> (файл .doc)</li>
+<li><a href="/files/metrab/UMK2.doc">Учебно-методический комплекс по курсу «Статистика»</a> (файл .doc)</li>
 </ul>
 ]]></content>
     <summary type="html">
