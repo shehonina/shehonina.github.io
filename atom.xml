@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://shehonina.github.io/"/>
-  <updated>2018-01-11T18:16:45.769Z</updated>
+  <updated>2019-01-06T21:19:02.897Z</updated>
   <id>http://shehonina.github.io/</id>
   
   <author>
@@ -19,7 +19,7 @@
     <link href="http://shehonina.github.io/studentam/"/>
     <id>http://shehonina.github.io/studentam/</id>
     <published>2018-01-10T21:00:00.000Z</published>
-    <updated>2018-01-11T18:16:45.769Z</updated>
+    <updated>2019-01-06T21:19:02.897Z</updated>
     <content type="html"><![CDATA[<ul>
 <li><a href="/files/student/Билеты-по-малому-бизнесу.zip">Билеты по малому бизнесу</a> (архив .zip)</li>
 <li><a href="/files/student/Задачи-по-анализу-и-отчетности.zip">Задачи по анализу и отчетности</a> (архив .zip)</li>
@@ -38,6 +38,8 @@
 <li><a href="/files/student/karta_sr.docx">Карта самостоятельной работы студента по дисциплине «Статистика»</a> </li>
 <li><a href="/files/student/tem_dipl_rabot-2017.docx">Темы дипломных работ</a> </li>
 <li><a href="/files/student/sr_st.docx">Самостоятельная работа по статистике</a> </li>
+<li><a href="/files/student/Задание-для-контрольной-работы-по-дисциплине.pdf">Задание для контрольной работы по дисциплине</a> </li>
+<li><a href="/files/student/Вопросы-по-статистике.docx">Вопросы по статистике</a> </li>
 </ul>
 ]]></content>
     <summary type="html">
@@ -55,7 +57,7 @@
     <link href="http://shehonina.github.io/metrab/"/>
     <id>http://shehonina.github.io/metrab/</id>
     <published>2018-01-09T21:00:00.000Z</published>
-    <updated>2018-01-11T18:16:51.520Z</updated>
+    <updated>2019-01-06T21:17:43.130Z</updated>
     <content type="html"><![CDATA[<ul>
 <li><a href="/files/metrab/38.0201-статистика.doc">Статистика 38.0201</a> (файл .doc)</li>
 <li><a href="/files/metrab/бизнес-планирование.docx">Бизнес-планирование</a> (файл .docx)</li>
@@ -77,6 +79,7 @@
 <li><a href="/files/metrab/stat_log.doc">Статистика для студентов, обучающихся по специальности «Операционная деятельность в логистике»</a> (файл .doc)</li>
 <li><a href="/files/metrab/statis_tovarov.doc">Статистика для студентов, обучающихся по специальности «Товароведение и экспертиза качества потребительских товаров»</a> (файл .doc)</li>
 <li><a href="/files/metrab/UMK2.doc">Учебно-методический комплекс по курсу «Статистика»</a> (файл .doc)</li>
+<li><a href="/files/metrab/ГИА.docx">Государственная аттестация</a> (файл .doc)</li>
 </ul>
 ]]></content>
     <summary type="html">
